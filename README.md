@@ -1,6 +1,6 @@
 # Bang: AWS IAM Access Key Rotation Tool
 
-Bang initially develop as personal project to help automates the AWS IAM access key rotation process. Keep it mind the tools is still experimental.
+Bang was initially developed as a personal project to help automate the AWS IAM access key rotation process. Keep in mind that the tool is not perfect.
 
 ## Quick Start Guide
 
