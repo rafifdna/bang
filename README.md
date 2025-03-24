@@ -1,7 +1,6 @@
 # Bang: AWS IAM Access Key Rotation Tool
 
-Bang automates the AWS IAM access key rotation process to help maintain good security hygiene. AWS IAM users can have a maximum of two access keys at any time, and regularly rotating these keys reduces the risk of compromised credentials.
-
+Bang initially develop as personal project to help automates the AWS IAM access key rotation process. Keep it mind the tools is still experimental.
 
 ## Quick Start Guide
 
